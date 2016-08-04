@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1468610054 source:/home/martin/Documents/Codeblocks_Projects/Dijkstra/main.cpp
+	<iostream>
+	"graph.cpp"
+
+1468610282 /home/martin/Documents/Codeblocks_Projects/Dijkstra/graph.cpp
+	<iostream>
+	<stdlib.h>
+	<iterator>
+	<limits.h>
+	<algorithm>
+	<fstream>
+	"graph.h"
+
+1468608013 /home/martin/Documents/Codeblocks_Projects/Dijkstra/graph.h
+	<iostream>
+	<vector>
+	<map>
+

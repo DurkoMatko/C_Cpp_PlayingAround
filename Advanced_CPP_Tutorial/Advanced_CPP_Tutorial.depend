@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1469035293 source:/home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/main.cpp
+	<iostream>
+	<vector>
+	"Employee.h"
+	"Manager.h"
+	"Shape.h"
+	"Stack.h"
+
+1468951768 /home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/src/Employee.cpp
+	"Employee.h"
+
+1469010819 /home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/include/Employee.h
+	<string>
+
+1469010580 source:/home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/src/Employee.cpp
+	"Employee.h"
+	<sstream>
+
+1469008950 source:/home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/src/Manager.cpp
+	"Manager.h"
+	<sstream>
+
+1469010814 /home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/include/Manager.h
+	"Employee.h"
+
+1469024140 source:/home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/src/Shape.cpp
+	"Shape.h"
+	<iostream>
+
+1469027548 /home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/include/Shape.h
+
+1469033151 source:/home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/src/Stack.cpp
+	"Stack.h"
+
+1469035563 /home/martin/Documents/Codeblocks_Projects/Advanced_CPP_Tutorial/include/Stack.h
+

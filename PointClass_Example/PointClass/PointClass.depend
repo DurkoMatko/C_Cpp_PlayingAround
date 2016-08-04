@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1467806927 source:/home/martin/Documents/Codeblocks_Projects/PointClass_Example/PointClass/main.cpp
+	<iostream>
+	"point.h"
+	"list.h"
+	"point.cpp"
+	"list.cpp"
+
+1467806063 /home/martin/Documents/Codeblocks_Projects/PointClass_Example/PointClass/point.h
+	<iostream>
+
+1467807242 /home/martin/Documents/Codeblocks_Projects/PointClass_Example/PointClass/list.h
+	"list_element.h"
+
+1467807107 /home/martin/Documents/Codeblocks_Projects/PointClass_Example/PointClass/list_element.h
+
+1467807020 /home/martin/Documents/Codeblocks_Projects/PointClass_Example/PointClass/point.cpp
+	<iostream>
+	"point.h"
+
+1467807191 /home/martin/Documents/Codeblocks_Projects/PointClass_Example/PointClass/list.cpp
+	<iostream>
+	"list.h"
+

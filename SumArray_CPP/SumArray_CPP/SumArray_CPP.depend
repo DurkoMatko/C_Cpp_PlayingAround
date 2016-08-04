@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467704607 source:/home/martin/Documents/Codeblocks_Projects/SumArray_CPP/SumArray_CPP/main.cpp
+	<iostream>
+	<numeric>
+	<vector>
+
