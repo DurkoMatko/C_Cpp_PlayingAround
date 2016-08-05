@@ -9,7 +9,7 @@ int main()
     string highLow;
     int lowerBound=0;
     int upperBound=100;
-    cout << "Is your number" << (lowerBound+upperBound)/2 << "? 0/1" <<endl;
+    cout << "Is your number" << (lowerBound+upperBound)/2 << "?" <<endl;
     cin >> answer;
     while (!answer){
         cout << "Higher or lower? h/l" <<endl;
